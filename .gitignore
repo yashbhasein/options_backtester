@@ -1,5 +1,9 @@
-options_data/
 __pycache__/
 *.parquet
 *.db
 *.log
+*.zip
+*.csv
+options_data/*
+!options_data/**/
+!options_data/**/.gitkeep
