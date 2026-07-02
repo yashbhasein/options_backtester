@@ -1,0 +1,5 @@
+options_data/
+__pycache__/
+*.parquet
+*.db
+*.log
